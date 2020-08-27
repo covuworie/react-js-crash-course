@@ -1,0 +1,8 @@
+# node modules
+node_modules
+
+# css files
+*.css
+
+# build output
+build/
